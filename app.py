@@ -18,23 +18,14 @@ def main():
     st.subheader('University of Michigan, Dearborn, MI')
     st.write('Masters in Computer and Information Sciences (General)')
     st.write('Jan 2024 - Jan 2026')
-    st.write('GPA: 3.8/4.0')
 
     st.subheader('Vidya Jyothi Institute of Technology, India')
     st.write('Bachelor of Technology in Information Technology')
     st.write('Aug 2019 - May 2023')
-    st.write('GPA: 3.0/4.0')
+    
 
     # Work Experience Section
     st.header('Work Experience')
-    st.subheader('Software Intern | Free Software Movement of India, India')
-    st.write('Jan 2023 – Aug 2023')
-    st.write('''
-    - Designed React components and implemented screen transition animations, resulting in a 40% enhanced user experience.
-    - Achieved 60fps consistency across devices with unified code, resulting in a 13% increase in user satisfaction.
-    - Managed state using Redux and React memo, improving overall app performance and leading to higher user retention rates.
-    - Used immutable data structures, improving data processing speed and app responsiveness, boosting user satisfaction.
-    ''')
 
     st.subheader('Next.js Developer - Internship | Provoke Developers, India')
     st.write('Oct 2022 – Nov 2022')
