@@ -1,5 +1,9 @@
 import streamlit as st
 
+try:
+    from collections.abc import Iterable
+except ImportError:
+    from collections import Iterable
     # Define your Streamlit app content
 def main():
     # Personal Information
