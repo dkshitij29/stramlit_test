@@ -5,7 +5,7 @@ def main():
     # Personal Information
     st.title('Kshitij Dhannoda')
     st.write('Dearborn, MI')
-    st.write('[Email](mailto:dkshitij@umich.edu) | [LinkedIn](https://www.linkedin.com/in/dkshitij29/) | GitHub: [Link](#) ')
+    st.write('[Email](mailto:dkshitij@umich.edu) | [LinkedIn](https://www.linkedin.com/in/dkshitij29/) | GitHub: [Link](https://github.com/dkshitij29) ')
 
     # About Section
     st.header('About 🙋‍♂️')
