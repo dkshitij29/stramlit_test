@@ -1,2 +1,8 @@
 streamlit==0.88.0
-pandas  # Add other dependencies if needed
+protobuf==3.20.3
+altair==4.2.2
+click==8.0.0
+pandas==2.2.2
+numpy==2.0.0
+matplotlib==3.7.1
+networkx==3.1
